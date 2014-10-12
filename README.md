@@ -1,2 +1,1 @@
-== README
-Welcome to my mini-twitter app
+Welcome to my mini-twitter app - Shaochen Yu
